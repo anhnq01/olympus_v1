@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/olympus_v1/static/css/main.7c5fca8a.css",
-    "main.js": "/olympus_v1/static/js/main.2f17ddbd.js",
+    "main.js": "/olympus_v1/static/js/main.83d2d95d.js",
     "static/js/787.61e23307.chunk.js": "/olympus_v1/static/js/787.61e23307.chunk.js",
     "index.html": "/olympus_v1/index.html",
     "main.7c5fca8a.css.map": "/olympus_v1/static/css/main.7c5fca8a.css.map",
-    "main.2f17ddbd.js.map": "/olympus_v1/static/js/main.2f17ddbd.js.map",
+    "main.83d2d95d.js.map": "/olympus_v1/static/js/main.83d2d95d.js.map",
     "787.61e23307.chunk.js.map": "/olympus_v1/static/js/787.61e23307.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c5fca8a.css",
-    "static/js/main.2f17ddbd.js"
+    "static/js/main.83d2d95d.js"
   ]
 }
